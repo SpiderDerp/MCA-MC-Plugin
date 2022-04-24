@@ -5,6 +5,7 @@ Minecraft Plugin for the MCA Server
 - Can craft Rotten Flesh into Leather
 - Penzo Armor
 - Bowjay
+- BackPacks
 
 ## Crafting Recipes
 1. **Rotten Flesh -> Leather**<br>
@@ -18,4 +19,8 @@ Minecraft Plugin for the MCA Server
 
 3. **Bowjay**<br>
 ![image](https://user-images.githubusercontent.com/62308557/164989008-2a9c1087-c025-45b7-9b53-c4d88fcf12bc.png)
+
+4. **Backpack**<br>
+![image](https://user-images.githubusercontent.com/62308557/165001532-ab32e868-4c35-4018-bfc1-26e695001b58.png)
+
 
